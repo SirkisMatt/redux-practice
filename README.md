@@ -8,7 +8,7 @@ A trivial counter. Practicing redux.
 
 counter:
 
-![screen shot of landing page of Hear Me](/src/Images/counter.png)
+![screen shot](/src/Images/counter.png)
 
 ## TECH
 
